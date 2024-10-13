@@ -1,1 +1,0 @@
-![Repository Banner](/header.png)
