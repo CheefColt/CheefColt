@@ -1,8 +1,6 @@
 # Abhiram Reddy
 ### Product Engineer · AI Engineer
 
-> **I love problems. Problems love me.**
-
 I build ideas into reality — from AI-powered systems and developer tools to products designed around real-world problems.
 
 I enjoy working across the stack, understanding how systems behave under the hood, and turning ambitious ideas into things people can actually use.
