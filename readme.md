@@ -9,13 +9,7 @@ I enjoy working across the stack, understanding how systems behave under the hoo
 
 ---
 
-### 01 / CURRENTLY BUILDING
-
-**IncidentIQ** — An evidence-grounded AI agent for investigating production incidents. Exploring log retrieval, evidence-based reasoning, and root-cause analysis.
-
-**adb-gui** — A lightweight native desktop interface for Android Debug Bridge, built to make device management and reverse TCP forwarding easier.
-
-### 02 / SELECTED WORK
+### 01 / SELECTED WORK
 
 | Project | What it does |
 |---|---|
@@ -24,9 +18,9 @@ I enjoy working across the stack, understanding how systems behave under the hoo
 | **Teachify** | AI-powered educational content generation |
 | **adb-gui** | Native desktop tooling for Android developers |
 
-### 03 / MY TOOLKIT
+### 02 / MY TOOLKIT
 
-**Languages:** JavaScript · Python · Java · C · Rust
+**Languages:** TypeScript · JavaScript · Python · Java · C · Rust
 
 **Engineering:** React · Node.js · Express · TypeScript · REST APIs
 
@@ -34,11 +28,11 @@ I enjoy working across the stack, understanding how systems behave under the hoo
 
 **Tools:** Git · Docker · Linux · AWS
 
-### 04 / BEYOND THE CODE
+### 03 / BEYOND THE CODE
 
 Product thinking. Systems design. Creative experimentation.
 
-Photography, video editing, design, and the occasional bike ride.
+Photography, video editing, design, and the occasional bike rides.
 
 ---
 
